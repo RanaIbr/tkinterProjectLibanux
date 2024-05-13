@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a06b74d-0bfa-46d4-9b14-28b97938a729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_file.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/last.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +144,7 @@
       <updated>1713860276240</updated>
       <workItem from="1713860280583" duration="11381000" />
       <workItem from="1713874046854" duration="38301000" />
-      <workItem from="1714462515433" duration="77454000" />
+      <workItem from="1714462515433" duration="79190000" />
     </task>
     <servers />
   </component>
